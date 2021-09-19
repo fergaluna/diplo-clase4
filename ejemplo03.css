@@ -1,0 +1,19 @@
+
+ul{
+    color: green;
+}
+ol{
+    color: indigo;
+    font-style: oblique;
+}
+
+#azul{
+    width: 200px;
+    height: 200 px;
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+#azul:hover{
+    background-color: red;
+}
